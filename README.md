@@ -1,6 +1,5 @@
 # Open-source-Ball-and-Beam-platform
 
-# Ball and Beam Experimental Platform
 
 This repository contains all the resources needed to build and control a low-cost, open-source **Ball and Beam** experimental system for control education and research.
 
